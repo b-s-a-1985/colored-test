@@ -7,6 +7,7 @@ import (
 )
 
 func main() {
+	// test colored package
 
 	fmt.Println(colored.Blue + "Blue txt")
 	fmt.Println(colored.Cyan + "Cyan txt")
